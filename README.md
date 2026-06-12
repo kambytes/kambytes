@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineering • AI • Data Science 
 ------------------------------------ 
 * 🌍  I'm based in Perth
-* ✉️  You can contact me at [https://www.linkedin.com/in/kamleshsenthilkumar/]
+* ✉️  You can contact me at https://www.linkedin.com/in/kamleshsenthilkumar/
 * 🧠  I'm currently learning Databricks
 
 <p align="left"> 
